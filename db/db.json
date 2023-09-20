@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "email": "arj00789@gmail.com",
+      "password": "1234567@@@",
+      "id": 1
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "123456789",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "aplha",
+      "description": " sndnsadsa,d,",
+      "image": "C:\\fakepath\\2.png",
+      "id": 1
+    },
+    {
+      "title": "beta",
+      "description": " sndnsadsa,d,",
+      "image": "C:\\fakepath\\2.png",
+      "id": 2
+    },
+    {
+      "title": "ceta",
+      "description": " sndnsadsa,d,",
+      "image": "C:\\fakepath\\2.png",
+      "id": 3
+    },
+    {
+      "title": "deta",
+      "description": " sndnsadsa,d,",
+      "image": "C:\\fakepath\\2.png",
+      "id": 4
+    },
+    {
+      "title": "testing",
+      "description": "cdnfdnfndfndnf",
+      "image": "",
+      "id": 5
+    },
+    {
+      "title": "fnsfnklsdlkfdsl",
+      "description": "ssdsdsdsas",
+      "image": "",
+      "id": 6
+    },
+    {
+      "title": "alpha",
+      "description": "ok",
+      "image": [
+        {}
+      ],
+      "id": 7
+    },
+    {
+      "title": "lamda",
+      "description": "hellooooooo",
+      "image": [
+        {}
+      ],
+      "id": 8
+    },
+    {
+      "title": "Teeeeellllo",
+      "description": "jfkjdsfbkjds",
+      "image": [
+        {}
+      ],
+      "id": 9
+    }
+  ]
+}
