@@ -4,12 +4,18 @@ import Login from "../components/Login.vue";
 import AddingPost from "../components/AddingPost.vue";
 import DisplayingPost from "../components/DisplayingPost.vue";
 import SinglePost from "../components/SinglePost.vue";
+import Test from "../components/Test.vue";
 
 const routes = [
   {
     name: "Login",
     path: "/",
     component: Login,
+  },
+  {
+    name: "Test",
+    path: "/Test",
+    component: Test,
   },
 
   {
