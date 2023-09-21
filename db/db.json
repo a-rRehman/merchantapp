@@ -21,6 +21,18 @@
       "id": 4
     }
   ],
+  "comments": [
+    {
+      "comment": "fsdfsdfsdfsd",
+      "postId": "2",
+      "id": 1
+    },
+    {
+      "comment": "first my comment",
+      "postId": "1",
+      "id": 2
+    }
+  ],
   "posts": [
     {
       "title": "aplha",
